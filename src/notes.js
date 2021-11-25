@@ -27,7 +27,7 @@ const notes = [
     key: 5,
     title: "Cooking Japanese rice",
     content:
-      "How to make the rice soft and fluffy, eatable with chopsticks."
+      "How to make the rice soft and fluffy, easily eatable with chopsticks."
   }
 ];
 
